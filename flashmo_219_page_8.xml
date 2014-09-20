@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+
+	<item>
+		<content><![CDATA[<span class="title">How to contact me?</span> ]]></content>
+	</item>
+	
+	<item> 
+		<content><![CDATA[
+			<p><b>Address :</b>USTC ,HEFEI, CHINA</p> 
+			<p><b>Phone :</b>15501685456,15755145800</p> 
+			<p><b>QQ :</b>493052553</p> 
+			<p><b>E-mail:</b><a href="mailto:mjc@mail.ustc.edu.cn?subject=Hello"> mjc@mail.ustc.edu.cn</a></p>
+			<p><b>Web :</b><a href = "http://home.ustc.edu.cn/~mjc"> http://home.ustc.edu.cn/~mjc</a></p>
+			<p><b>Renren :</b><a href = "http://mengjc.renren.com">http://mengjc.renren.com</a></p> 
+			<p><b>Weibo :</b><a href = "http://weibo.com/mengjc">http://weibo.com/mengjc</a></p>
+		]]></content> 
+	</item>
+	
+</items>

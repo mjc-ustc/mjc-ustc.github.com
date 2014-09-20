@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<photos>
+	
+	<config 
+		enable_auto_play="true"
+		auto_play_duration="2"
+		auto_align="true"
+		folder="images/hobbies/"
+		tween_duration="0.5"
+		photo_border_size="0"
+		photo_border_color="0xFFFFFF"
+		photo_alpha="false"
+		x_spacing="120"
+		y_spacing="0"
+		side_photo_count="3">
+	</config>
+	
+	<photo>
+		<filename>01.jpg</filename>
+		<description>Pingpang.</description>
+	</photo>
+	<photo>
+		<filename>02.jpg</filename>
+		<description>Football.</description>
+	</photo>
+	<photo>
+		<filename>03.jpg</filename>
+		<description>Badminton.</description>
+	</photo>
+	<photo>
+		<filename>04.jpg</filename>
+		<description>Jogging.</description>
+	</photo>
+	<photo>
+		<filename>05.jpg</filename>
+		<description>Hiking.</description>
+	</photo>
+	<photo>
+		<filename>06.jpg</filename>
+		<description>Billiards.</description>
+	</photo>
+	<photo>
+		<filename>07.jpg</filename>
+		<description>Chinese Chess.</description>
+	</photo>
+	<photo>
+		<filename>08.jpg</filename>
+		<description>Go.</description>
+	</photo>
+	<photo>
+		<filename>09.jpg</filename>
+		<description>Sanguosha.</description>
+	</photo>
+	<photo>
+		<filename>10.jpg</filename>
+		<description>Computer Games.</description>
+	</photo>
+	<photo>
+		<filename>11.jpg</filename>
+		<description>Reading.</description>
+	</photo>
+	<photo>
+		<filename>12.jpg</filename>
+		<description>Listen Music.</description>
+	</photo>
+	
+</photos>

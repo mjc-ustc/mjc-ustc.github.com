@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+	<item>
+		<content><![CDATA[<span class="title">并行化算法DSWP在Coq中的实现和验证</span>
+<p>时间：2013 - 至今 </p>
+<p>简介：自动并行化编译的正确性是我研究的重点，在Coq中实现程序的分析和并行化的算法Decoupled Software Pipelining，并对其正确性做出形式化证明</p>
+<p>项目角色: 个人项目.</p> ]]></content>
+	</item>
+</items>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+	<item>
+		<content><![CDATA[<span class="title">PointerC语言验证工具</span>
+<p>时间：2011.3 – 2013.6 </p>
+<p>简介：PointerC语言验证工具是实验室开发的形式化验证工具，用形状图逻辑和形状系统来解决软件验证中指针别名的困难。</p>
+<p>项目角色: 项目成员，在项目组中负责设计并实现了形状系统模块和函数参数匹配验证模块，完成C++代码10000多行(项目共约60000行).</p> ]]></content>
+	</item>
+</items>

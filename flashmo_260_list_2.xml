@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<photos>
+	
+	<config 
+		enable_auto_play="true"
+		auto_play_duration="2"
+		auto_align="true"
+		folder="images/friends/"
+		tween_duration="0.5"
+		photo_border_size="0"
+		photo_border_color="0xFFFFFF"
+		photo_alpha="false"
+		x_spacing="100"
+		y_spacing="0"
+		side_photo_count="4">
+	</config>
+	
+	<photo>
+		<filename>01.jpg</filename>
+		<description>My class.</description>
+	</photo>
+	<photo>
+		<filename>02.jpg</filename>
+		<description>My class.</description>
+	</photo>
+	<photo>
+		<filename>03.jpg</filename>
+		<description>My class.</description>
+	</photo>
+	<photo>
+		<filename>04.jpg</filename>
+		<description>My class.</description>
+	</photo>
+</photos>
